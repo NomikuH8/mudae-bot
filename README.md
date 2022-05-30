@@ -20,6 +20,6 @@ A bot for Discord Mudae bot, lol. Useful to get specific characters
 # Still in development!
 
 #### TODOS:
-- [] sending messages
-- [] implement timer (timer, offset)
-- [] auto-claim if more than X kakera
+- [ ] sending messages
+- [ ] implement timer (timer, offset)
+- [ ] auto-claim if more than X kakera
